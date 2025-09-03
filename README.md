@@ -6,6 +6,6 @@ This repository contains **Data Warehouse project** using the **Synthea syntheti
 - Perform **ETL (Extract, Transform, Load)** on raw healthcare data  
 - Create an **ERD (Entity Relationship Diagram)**  
 - Run **SQL analytics queries** for insights  
----
+
 
 ⚠️ **Note:** This project uses **synthetic healthcare data** (not real patient data).
