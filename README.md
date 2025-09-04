@@ -22,3 +22,7 @@ Columns: age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, sl
 | **Fact Table (DDL)**         | Created `FactHeartDisease` with foreign keys linking to dimensions and numeric measures.      |
 | **Data Population**          | Populated dimension tables from staging and fact table via joins.                             |
 | **ERD / Star Schema**        | Designed ERD showing `FactHeartDisease` in the center and dimensions around it.               |
+
+
+
+
